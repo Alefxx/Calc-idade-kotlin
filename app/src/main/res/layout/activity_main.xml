@@ -45,7 +45,7 @@
             android:layout_marginTop="12dp" />
 
         <EditText
-            android:id="@+id/etanodenascimento"
+            android:id="@+id/etanonasc"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Digite o ano de nascimento"
@@ -62,7 +62,7 @@
             android:layout_marginTop="16dp" />
 
         <TextView
-            android:id="@+id/textView9"
+            android:id="@+id/etidadeemanos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -78,7 +78,7 @@
             android:layout_marginTop="8dp" />
 
         <TextView
-            android:id="@+id/textView10"
+            android:id="@+id/etidadeemmeses"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -94,7 +94,7 @@
             android:layout_marginTop="8dp" />
 
         <TextView
-            android:id="@+id/textView11"
+            android:id="@+id/etidadeemdias"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -110,7 +110,7 @@
             android:layout_marginTop="8dp" />
 
         <TextView
-            android:id="@+id/textView12"
+            android:id="@+id/etidadeemhoras"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -126,7 +126,7 @@
             android:layout_marginTop="8dp" />
 
         <TextView
-            android:id="@+id/textView13"
+            android:id="@+id/etidadeemminutos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
@@ -142,7 +142,7 @@
             android:layout_marginTop="8dp" />
 
         <TextView
-            android:id="@+id/textView14"
+            android:id="@+id/etidadeemsegundos"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAlignment="center"
